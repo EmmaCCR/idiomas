@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+spam{
+    color: deepskyblue;
+}
+}
+
+.d1{
+    background-color:rgb(207, 207, 207);
+    padding: 10px;
+}
+.d2, .d4{
+    margin-top: 30px;
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color: rgb(28, 165, 211);
+    color: white;
+}
+.d3{
+p{
+    font-size:25px;
+}
+}
+.d5{
+    margin-left: 500px;
+    margin-right: 500px;
+}
